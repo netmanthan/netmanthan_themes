@@ -1,6 +1,6 @@
 ## NETMANTHAN ERPNext Themes
 
-Netmanthan Erpnext Themes Version 14
+Netmanthan Erpnext Themes for Version 14 & 15
 
 #### License
 
